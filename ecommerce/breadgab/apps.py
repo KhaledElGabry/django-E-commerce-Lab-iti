@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class BreadgabConfig(AppConfig):
+class AmazonConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'breadgab'
+    name = 'amazon'
